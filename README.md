@@ -2,10 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>Web Developing</title>
-  <style>
-  <!--I will be entering CSS here eventually!-->
-  </style>
+  <title>Web&nbsp;Developing</title>
 </head>
 <body>
 <header>
