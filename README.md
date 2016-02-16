@@ -15,6 +15,7 @@
   </ul>
 </header>
 <p>I'm really excited to begin my coding journey and I hope that I can learn a lot from having this blog, and maybe help some people too!</p>
+<p>I'm adding a bit here to make sure you know I'm not dead....  I am really unfamiliar with github and don't know how to open a new thing here... I'm open to any suggestions and tips!</p>
 </body>
 <footer>
 <p>Written by Alyssa Hinkle as a resource to the learning steping stones, there is no &copy;copyright on this but I started this blog on 2/15/2016 for the record!</p>
